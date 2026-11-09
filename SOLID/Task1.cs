@@ -60,7 +60,7 @@ namespace SolidTask1
 //            itemList = value;
 //        }
 //    }
-//313
+//
 // public void CalculateTotalSum() {/*...*/}
 //    public void GetItems() {/*...*/}
 //    public void GetItemCount() {/*...*/}
